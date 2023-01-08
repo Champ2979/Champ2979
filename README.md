@@ -1,12 +1,13 @@
- <h1 align="center">Hi 👋, I'm Pranav Pratyush</h1>
+<h1 align="center">Hi 👋, I'm Pranav Pratyush</h1>
 <h3 align="center">A passionate aspiring Web Developer developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champ2979&label=Profile%20views&color=0e75b6&style=flat" alt="champ2979" /> </p>
 
 - 🌱 I’m currently learning **The Complete Web Developer Course 2.0**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/pranav_pratyush](https://linktr.ee/pranav_pratyush)
+- 👨‍💻 Connect me on various socials [https://linktr.ee/pranav_pratyush](https://linktr.ee/pranav_pratyush)
 
 - 📫 How to reach me **pranavpratyush2007@gmail.com**
 
@@ -29,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=champ2979&show_icons=true&locale=en" alt="champ2979" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=champ2979&" alt="champ2979" /></p>
-   
