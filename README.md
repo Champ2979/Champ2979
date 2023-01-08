@@ -13,6 +13,7 @@
 - 📫 How to reach me **pranavpratyush2007@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xIYx1qDWc2DfKZhKd8f8UYaO9KsRr09-/view?usp=share_link](https://drive.google.com/file/d/1xIYx1qDWc2DfKZhKd8f8UYaO9KsRr09-/view?usp=share_link)
+👆 My Resume Link
 
 - ⚡ Fun fact **Sense of humor is quiet good in me**
 
