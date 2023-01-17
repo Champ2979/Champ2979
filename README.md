@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champ2979&label=Profile%20views&color=0e75b6&style=flat" alt="champ2979" /> </p>
 
-- 🌱 I’m currently learning **The Complete Web Developer Course 2.0**
+- 🌱 I’m currently learning **HTML, CSS, and Javascript for Web Developers by
+Johns Hopkins University**
 
 - 👨‍💻 Connect me on various socials [https://linktr.ee/pranav_pratyush](https://linktr.ee/pranav_pratyush)
 
