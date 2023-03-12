@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/Champ2979/Champ2979/blob/main/Github%20banner.png)]
 <h1 align="center">Hi 👋, I'm Pranav Pratyush</h1>
 <h3 align="center">A passionate aspiring Web Developer developer from India</h3>
 
