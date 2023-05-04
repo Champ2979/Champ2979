@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Pratyush</h1>
-<h3 align="center">A passionate aspiring Web Developer developer from India</h3>
+<h3 align="center">A passionate aspiring Web Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
