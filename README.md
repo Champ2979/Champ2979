@@ -5,17 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champ2979&label=Profile%20views&color=0e75b6&style=flat" alt="champ2979" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, and Javascript for Web Developers by
-Johns Hopkins University**
+- 🌱 I’m currently learning **DSA in Java**
 
-- 👨‍💻 Connect me on various socials [https://linktr.ee/pranav_pratyush](https://linktr.ee/pranav_pratyush)
+- 👨‍💻 Connect with me on various socials [https://linktr.ee/pranav_pratyush](https://linktr.ee/pranav_pratyush)
 
 - 📫 How to reach me **pranavpratyush2007@gmail.com**
 
-- 📄 Know about my experiences [👆 My Resume Link]([https://drive.google.com/file/d/1SMNlc0luruKdAtGXjZNWyIZW8y3mha5g/view?usp=share_link](https://drive.google.com/file/d/1QN1gzgARM5k-hk8CvxyaBDM7Gc722SkC/view?usp=drive_link))
+- 📄 Check out my experiences [📎 My Resume](https://drive.google.com/file/d/1QN1gzgARM5k-hk8CvxyaBDM7Gc722SkC/view?usp=drive_link)
 
-
-- ⚡ Fun fact **Sense of humor is quiet good in this person**
+- ⚡ Fun fact **Sense of humor is quite good in this person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
