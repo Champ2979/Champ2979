@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning DSA in Java<br><br>👨‍💻 Connect with me on various socials<br><br>📫 How to reach me pranavpratyush2007@gmail.com<br><br>📄 Check out my experiences 📎 My Resume<br><br>⚡ Fun fact Sense of humor is quite good in this person
+🌱 I’m currently learning DSA in Java<br><br>👨‍💻 Connect with me on various socials<br><br>📫 How to reach me pranavpratyush2007@gmail.com<br><br>📄 Check out my experiences <a href="https://drive.google.com/file/d/1QN1gzgARM5k-hk8CvxyaBDM7Gc722SkC/view?usp=drive_link"📎 My Resume </a> <br><br>⚡ Fun fact Sense of humor is quite good in this person
 
 
 ## 🌐 Socials:
