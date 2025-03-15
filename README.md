@@ -9,16 +9,28 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a Machine learning Project**
- 
- 🌱 I’m currently learning **Spring Boot, React, Java Backend**
 
-💬 Ask me about **💡 AI & Machine Learning – From building models to deploying scalable solutions., 🔍 Data Analytics & Visualization – Real-time analytics, dashboards, and data-driven insights.**
+<h2>🚀 Welcome to My GitHub Space! 🚀</h2>
 
-⚡ Fun fact **In Squid Games, the phone number players receive on their cards in the first episode is real😂**
+🔭 Currently working on:  
+<strong>⚙️ A Machine Learning Project – Innovating with data and models!</strong>
 
- </div>
+🌱 Currently learning:  
+<strong>🌿 Spring Boot, React, and Java Backend Development</strong>
+
+💬 **Ask Me About:**  
+- 💡 <strong>AI & Machine Learning:</strong> From building models to deploying scalable solutions.  
+- 🔍 <strong>Data Analytics & Visualization:</strong> Real-time analytics, dashboards, and data-driven insights.  
+
+⚡ <strong>Fun Fact:</strong>  
+Did you know? In *Squid Game*, the phone number players receive on their cards in the first episode is real! 😂
+
+---
+
+✨ *Let's connect and innovate together!* ✨
+
+</div>
+
  
 <div align="center"> 
   <a href="mailto:pranavpratyush2007@gmail.com">
@@ -70,7 +82,14 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<h2>✨ Turning Ideas into Impactful Code ✨</h2>
+
+<p><strong>🚀 Building, Innovating, and Creating for a Smarter Tomorrow!</strong></p>
+
+<img height='64' style='border:0px;height:64px;' src='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1040305212W5823H10000/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/solo-leveling-arise-sticker.jpg?v=3' border='0' alt='Innovator at Work!' />
+
 </div>
 
 <br/>
+
