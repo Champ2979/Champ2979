@@ -6,11 +6,18 @@
 
 <h3 align="center">A passionate software developer and Machine Learning enthusiast from India 🇮🇳</h3>
 
-<br/>
 
 <div align="center">
 
-<h2>🚀 Welcome to My GitHub Space! 🚀</h2>
+### 🎬 Here's a Quick Glimpse!
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pwaG8xbnFreHF3bmd3d2dzMDBuZjFwaWt0bHoxcDFjczJmMmRsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" alt="Coding Gif" width="200"/>
+
+</div>
+
+<div align="center">
+
+<h2>🚀 Welcome to My GitHub Space! </h2>
 
 🔭 Currently working on:  
 <strong>⚙️ A Machine Learning Project – Innovating with data and models!</strong>
@@ -93,8 +100,7 @@ Did you know? In *Squid Game*, the phone number players receive on their cards i
 
 <p><strong>🚀 Building, Innovating, and Creating for a Smarter Tomorrow!</strong></p>
 
-<img height='64' style='border:0px;height:350px;' src='img.png' border='0' alt='Innovator at Work!' />
-
+<img height='64' style='border:0px;height:250px;' src='bye.gif' border='0' alt='Innovator at Work!' />
 </div>
 
 <br/>
