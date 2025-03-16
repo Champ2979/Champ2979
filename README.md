@@ -93,7 +93,7 @@ Did you know? In *Squid Game*, the phone number players receive on their cards i
 
 <p><strong>🚀 Building, Innovating, and Creating for a Smarter Tomorrow!</strong></p>
 
-<img height='64' style='border:0px;height:64px;' src='https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1040305212W5823H10000/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/solo-leveling-arise-sticker.jpg?v=3' border='0' alt='Innovator at Work!' />
+<img height='64' style='border:0px;height:350px;' src='img.png' border='0' alt='Innovator at Work!' />
 
 </div>
 
