@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="assests/github-banner.gif" alt="GitHub Banner" width="100%">
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Champ2979.Champ2979" />
 
 <h1 align="center">
@@ -73,20 +76,21 @@ Did you know? In *Squid Game*, the phone number players receive on their cards i
 
 <hr/>
 
-<<h2 align="center">⚡ My GitHub Stats ⚡</h2>
+<h2 align="center">⚡ My GitHub Stats ⚡</h2>
 <br>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Champ2979&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Champ2979&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-  <br/>
-  
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Champ2979&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
+  <!-- Stats Container -->
+  <div style="flex: 1 1 auto;">
+    <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Champ2979&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Champ2979&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </div>
 </div>
 
+<!-- Top Languages (keep below) -->
+<div align="center">
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Champ2979&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <br/><br/>
 
@@ -98,9 +102,11 @@ Did you know? In *Squid Game*, the phone number players receive on their cards i
 
 <h2>✨ Turning Ideas into Impactful Code ✨</h2>
 
-<p><strong>🚀 Building, Innovating, and Creating for a Smarter Tomorrow!</strong></p>
+<p><strong>🚀 Building, Innovating, and Creating for a Smarter Tomorrow!
+<br> ▬▬ι═══════ﺤ 卂尺丨丂乇
+</strong></p>
 
-<img height='64' style='border:0px;height:250px;' src='bye.gif' border='0' alt='Innovator at Work!' />
+<img height='64' style='border:0px;height:200px;' src='assests/download.gif' border='0' alt='Innovator at Work!' />
 </div>
 
 <br/>
