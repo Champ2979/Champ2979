@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='https://raw.githubusercontent.com//Champ2979/Champ2979/main/github-banner.gif' alt="GitHub Banner" width="100%">
+  <img src="https://raw.githubusercontent.com//Champ2979/Champ2979/main/github-banner.gif" alt="GitHub Banner" width="100%">
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Champ2979.Champ2979" />
 
