@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assests/github-banner.gif" alt="GitHub Banner" width="100%">
+  <img src="https://github.com/Champ2979/Champ2979/blob/main/assests/github-banner.gif" alt="GitHub Banner" width="100%">
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Champ2979.Champ2979" />
 
@@ -106,7 +106,7 @@ Did you know? In *Squid Game*, the phone number players receive on their cards i
 <br> ▬▬ι═══════ﺤ 卂尺丨丂乇
 </strong></p>
 
-<img height='64' style='border:0px;height:200px;' src='assests/download.gif' border='0' alt='Innovator at Work!' />
+<img height='64' style='border:0px;height:200px;' src='https://github.com/Champ2979/Champ2979/blob/main/assests/download.gif' border='0' alt='Innovator at Work!' />
 </div>
 
 <br/>
