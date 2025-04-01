@@ -18,28 +18,25 @@
 
 </div>
 
-<div align="center">
+<div align="center"><h2>🚀 Welcome to My GitHub Space! </h2> </div>
+🔭 Currently working on
+<strong>⚙️ Machine Learning Innovations</strong> – Building intelligent systems and scalable data solutions.
 
-<h2>🚀 Welcome to My GitHub Space! </h2>
+🌱 Currently learning
+<strong>🌿 Spring Boot | React | Advanced Java</strong> – Crafting robust backend architectures.
 
-🔭 Currently working on:  
-<strong>⚙️ A Machine Learning Project – Innovating with data and models!</strong>
+💬 Ask me about
+💡 <strong>AI/ML:</strong> Model development, optimization, and deployment pipelines.
 
-🌱 Currently learning:  
-<strong>🌿 Spring Boot, React, and Java Backend Development</strong>
+📊 <strong>Data Analytics:</strong> Real-time dashboards, storytelling with Tableau/Power BI.
 
-💬 **Ask Me About:**  
-- 💡 <strong>AI & Machine Learning:</strong> From building models to deploying scalable solutions.  
-- 🔍 <strong>Data Analytics & Visualization:</strong> Real-time analytics, dashboards, and data-driven insights.  
+⚙️ <strong>Automation:</strong> Scripting workflows to boost efficiency.
 
-⚡ <strong>Fun Fact:</strong>  
-Did you know? In *Squid Game*, the phone number players receive on their cards in the first episode is real! 😂
+⚡ Fun fact:
+The Squid Game invitation phone number (+82 06-3284-4148) was real! 😱
+(It’s disabled now to avoid chaos.)
 
----
-
-✨ *Let's connect and innovate together!* ✨
-
-</div>
+<div align="center"> <i>✨ Turning coffee into code since 2020.</i> </div>
 
  
 <div align="center"> 
