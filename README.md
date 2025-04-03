@@ -40,8 +40,8 @@ The Squid Game invitation phone number (+82 06-3284-4148) was real! 😱
 
  
 <div align="center"> 
-  <a href="https://pranavpratyushportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://pranavpratyushportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/pranav-pratyush/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
