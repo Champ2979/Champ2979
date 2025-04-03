@@ -9,7 +9,6 @@
 
 <h3 align="center">A passionate software developer and Machine Learning enthusiast from India 🇮🇳</h3>
 
-
 <div align="center">
 
 ### 🎬 Here's a Quick Glimpse!
@@ -40,14 +39,14 @@ The Squid Game invitation phone number (+82 06-3284-4148) was real! 😱
 
  
 <div align="center"> 
-  <a href="https://pranavpratyushportfolio.vercel.app/" target="_blank">
+  <a href="mailto:pranavpratyush2979@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/pranav-pratyush/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Champ2979" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://pranavpratyushportfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -105,6 +104,3 @@ The Squid Game invitation phone number (+82 06-3284-4148) was real! 😱
 
 <img height='64' style='border:0px;height:200px;' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm85MWh4eHo1N3RjbWhodjNjYXI5emIwNTNjNXAzNTAwMTRlaG5jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ySvhFxq6Z4LrbqaikJ/giphy.gif" border='0' alt='Innovator at Work!' />
 </div>
-
-<br/>
-
