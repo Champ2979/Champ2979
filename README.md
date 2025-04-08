@@ -35,7 +35,7 @@
 The Squid Game invitation phone number (+82 06-3284-4148) was real! 😱
 (It’s disabled now to avoid chaos.)
 
-<div align="center"> <i>✨ Turning coffee into code since 2020.</i> </div>
+<div align="center"> <i>✨ Turning coffee into code since 2021.</i> </div>
 
  
 <div align="center"> 
